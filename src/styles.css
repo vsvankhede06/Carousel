@@ -1,0 +1,36 @@
+.App {
+  width: 60%;
+  margin: auto;
+}
+.container {
+  margin-top: 20px;
+}
+.card {
+  background-color: blueviolet;
+  height: 450px;
+  border-radius: 30px;
+}
+.img-container {
+  border-radius: 50px;
+  display: flex;
+  background-color: indigo;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  margin-top: 10px;
+  height: 30%;
+  width: 30%;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text .p {
+  font-size: larger;
+}
+btn {
+  border-radius: 50px;
+}
